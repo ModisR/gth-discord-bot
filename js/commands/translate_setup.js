@@ -22,7 +22,8 @@ logger("GTH ready!");
 
 //aliases for supported languages
 export const langsDict = {
-  'hello': 'hello',
+  'poc': 'poc',
+  'proofOfConcept': 'poc',
 
   'shermans': 'shermans',
   "sherman's": 'shermans',
